@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Know Who I Am
             <br />
-            Hi Everyone, I am <span className="purple">Abhishek Kumar Pandey</span> from <span className="purple">India</span>.
+            Hi Everyone, I am <span className="purple">Abhishek Kumar Pandey</span> from <span className="purple">Varanasi, Uttar Pradesh</span>.
             <br />
             I am currently pursuing my Bachelor's degree in Engineering at PES College of Engineering with a specialization in Computer Science.
             <br />
